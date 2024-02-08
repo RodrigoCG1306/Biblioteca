@@ -1,0 +1,10 @@
+1,El principito, Antoine de Saint-Exupéry, Ficción
+2,Rimas y leyendas,Gustavo Adolfo Bécquer,Terror
+3,Guerra y Paz,AJ Romero Ramírez,Terror
+4,La Divina Comedia,Dante Alighieri,Clásico
+5,Hamlet, William Shakespeare, Tragedia
+6,50 sombras de Grey, E. L. James, Novela
+7,Romeo y Julieta, William Shakespeare, Tragedia
+8,Madame Bovary, Gustave Flaubert, Novela
+9,100 años de soledad, Gabriel García Márquez, Novela
+10,Pedro Páramo, Juan Rulfo, Novela
